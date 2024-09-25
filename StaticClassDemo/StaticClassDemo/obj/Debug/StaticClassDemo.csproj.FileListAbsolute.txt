@@ -1,0 +1,10 @@
+C:\Users\viva\source\repos\StaticClassDemo\StaticClassDemo\bin\Debug\StaticClassDemo.exe.config
+C:\Users\viva\source\repos\StaticClassDemo\StaticClassDemo\bin\Debug\StaticClassDemo.exe
+C:\Users\viva\source\repos\StaticClassDemo\StaticClassDemo\bin\Debug\StaticClassDemo.pdb
+C:\Users\viva\source\repos\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.csproj.AssemblyReference.cache
+C:\Users\viva\source\repos\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.Form1.resources
+C:\Users\viva\source\repos\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.Properties.Resources.resources
+C:\Users\viva\source\repos\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.csproj.GenerateResource.cache
+C:\Users\viva\source\repos\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\viva\source\repos\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.exe
+C:\Users\viva\source\repos\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.pdb

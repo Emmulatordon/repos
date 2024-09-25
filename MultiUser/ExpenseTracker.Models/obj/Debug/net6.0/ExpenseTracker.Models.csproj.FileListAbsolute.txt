@@ -1,0 +1,11 @@
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.Models\bin\Debug\net6.0\ExpenseTracker.Models.deps.json
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.Models\bin\Debug\net6.0\ExpenseTracker.Models.dll
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.Models\bin\Debug\net6.0\ExpenseTracker.Models.pdb
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.Models\obj\Debug\net6.0\ExpenseTracker.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.Models\obj\Debug\net6.0\ExpenseTracker.Models.AssemblyInfoInputs.cache
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.Models\obj\Debug\net6.0\ExpenseTracker.Models.AssemblyInfo.cs
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.Models\obj\Debug\net6.0\ExpenseTracker.Models.csproj.CoreCompileInputs.cache
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.Models\obj\Debug\net6.0\ExpenseTracker.Models.dll
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.Models\obj\Debug\net6.0\refint\ExpenseTracker.Models.dll
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.Models\obj\Debug\net6.0\ExpenseTracker.Models.pdb
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.Models\obj\Debug\net6.0\ref\ExpenseTracker.Models.dll

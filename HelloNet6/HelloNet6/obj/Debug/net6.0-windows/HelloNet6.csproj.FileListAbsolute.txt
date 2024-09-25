@@ -1,0 +1,16 @@
+C:\Users\viva\source\repos\HelloNet6\HelloNet6\bin\Debug\net6.0-windows\HelloNet6.exe
+C:\Users\viva\source\repos\HelloNet6\HelloNet6\bin\Debug\net6.0-windows\HelloNet6.deps.json
+C:\Users\viva\source\repos\HelloNet6\HelloNet6\bin\Debug\net6.0-windows\HelloNet6.runtimeconfig.json
+C:\Users\viva\source\repos\HelloNet6\HelloNet6\bin\Debug\net6.0-windows\HelloNet6.dll
+C:\Users\viva\source\repos\HelloNet6\HelloNet6\bin\Debug\net6.0-windows\HelloNet6.pdb
+C:\Users\viva\source\repos\HelloNet6\HelloNet6\obj\Debug\net6.0-windows\HelloNet6.Form1.resources
+C:\Users\viva\source\repos\HelloNet6\HelloNet6\obj\Debug\net6.0-windows\HelloNet6.csproj.GenerateResource.cache
+C:\Users\viva\source\repos\HelloNet6\HelloNet6\obj\Debug\net6.0-windows\HelloNet6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viva\source\repos\HelloNet6\HelloNet6\obj\Debug\net6.0-windows\HelloNet6.AssemblyInfoInputs.cache
+C:\Users\viva\source\repos\HelloNet6\HelloNet6\obj\Debug\net6.0-windows\HelloNet6.AssemblyInfo.cs
+C:\Users\viva\source\repos\HelloNet6\HelloNet6\obj\Debug\net6.0-windows\HelloNet6.csproj.CoreCompileInputs.cache
+C:\Users\viva\source\repos\HelloNet6\HelloNet6\obj\Debug\net6.0-windows\HelloNet6.dll
+C:\Users\viva\source\repos\HelloNet6\HelloNet6\obj\Debug\net6.0-windows\refint\HelloNet6.dll
+C:\Users\viva\source\repos\HelloNet6\HelloNet6\obj\Debug\net6.0-windows\HelloNet6.pdb
+C:\Users\viva\source\repos\HelloNet6\HelloNet6\obj\Debug\net6.0-windows\HelloNet6.genruntimeconfig.cache
+C:\Users\viva\source\repos\HelloNet6\HelloNet6\obj\Debug\net6.0-windows\ref\HelloNet6.dll

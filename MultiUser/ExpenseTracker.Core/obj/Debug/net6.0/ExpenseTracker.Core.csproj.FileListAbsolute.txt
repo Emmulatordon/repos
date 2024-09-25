@@ -1,0 +1,15 @@
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.Core\obj\Debug\net6.0\ExpenseTracker.Core.csproj.AssemblyReference.cache
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.Core\obj\Debug\net6.0\ExpenseTracker.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.Core\obj\Debug\net6.0\ExpenseTracker.Core.AssemblyInfoInputs.cache
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.Core\obj\Debug\net6.0\ExpenseTracker.Core.AssemblyInfo.cs
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.Core\obj\Debug\net6.0\ExpenseTracker.Core.csproj.CoreCompileInputs.cache
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.Core.deps.json
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.Core.dll
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.Core.pdb
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.DataAccess.dll
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.DataAccess.pdb
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.Core\obj\Debug\net6.0\ExpenseTracker.Core.csproj.CopyComplete
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.Core\obj\Debug\net6.0\ExpenseTracker.Core.dll
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.Core\obj\Debug\net6.0\refint\ExpenseTracker.Core.dll
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.Core\obj\Debug\net6.0\ExpenseTracker.Core.pdb
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.Core\obj\Debug\net6.0\ref\ExpenseTracker.Core.dll

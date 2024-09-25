@@ -1,0 +1,176 @@
+﻿<div class="top-row ps-3 navbar navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="">TestingModalDialog</a>
+        <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </div>
+</div>
+
+<div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
+    <nav class="flex-column">
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                <span class="oi oi-home" aria-hidden="true"></span> Home
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="counter">
+                <span class="oi oi-plus" aria-hidden="true"></span> Counter
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="fetchdata">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Fetch data
+            </NavLink>
+        </div>        
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" @onclick="(()=>{ToggleSubMenu(1);})">
+@*                 <div style="display:flex;justify-content:space-between"> *@
+                    <span class="oi oi-list-rich" aria-hidden="true"></span> Fetch datum
+                <span class="oi oi-chevron-bottom float-right" aria-hidden="true"></span>
+                @*                 </div> *@
+
+            </NavLink>
+            @if (expandedSubMenu1)
+            {
+                <div style="margin-left:30px;">
+                    <NavLink class="nav-link nav-subItem" href="test1">
+                        <span class="oi oi-list-rich" aria-hidden="true"></span> Manage Teachers
+                    </NavLink>
+                    <NavLink class="nav-link nav-subItem" href="test2">
+                        <span class="oi oi-list-rich" aria-hidden="true"></span> Report Cards
+                    </NavLink>
+                    <NavLink class="nav-link nav-subItem" href="test3">
+                        <span class="oi oi-list-rich" aria-hidden="true"></span> Administrator Types
+                    </NavLink>
+               </div>
+            }
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="fetchdata">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Fetch data
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" @onclick="(()=>{ToggleSubMenu(2);})">
+                @*                 <div style="display:flex;justify-content:space-between"> *@
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Fetch data
+                <span style="margin-left:75px;font-size:13px" class="oi oi-chevron-bottom" aria-hidden="true"></span>
+                @*                 </div> *@
+
+            </NavLink>
+            @if (expandedSubMenu2)
+            {
+                <div style="margin-left:30px;">
+                    <NavLink class="nav-link nav-subItem" href="test1">
+                        <span class="oi oi-list-rich" aria-hidden="true"></span> Manage Teachers
+                    </NavLink>
+                    <NavLink class="nav-link nav-subItem" href="test2">
+                        <span class="oi oi-list-rich" aria-hidden="true"></span> Report Cards
+                    </NavLink>
+                    <NavLink class="nav-link nav-subItem" href="test3">
+                        <span class="oi oi-list-rich" aria-hidden="true"></span> Administrator Types
+                    </NavLink>
+                </div>
+            }
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="fetchdata">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Fetch data
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="fetchdata">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Fetch data
+            </NavLink>
+        </div>
+
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" @onclick="(()=>{ToggleSubMenu(3);})">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Fetch data
+                <span style="margin-left:75px;font-size:13px" class="oi oi-chevron-bottom" aria-hidden="true"></span>
+            </NavLink>
+            @if (expandedSubMenu3)
+            {
+                <div style="margin-left:30px;">
+                    <NavLink class="nav-link nav-subItem" href="test1">
+                        <span class="oi oi-list-rich" aria-hidden="true"></span> Manage Teachers
+                    </NavLink>
+                    <NavLink class="nav-link nav-subItem" href="test2">
+                        <span class="oi oi-list-rich" aria-hidden="true"></span> Report Cards
+                    </NavLink>
+                    <NavLink class="nav-link nav-subItem" href="test3">
+                        <span class="oi oi-list-rich" aria-hidden="true"></span> Administrator Types
+                    </NavLink>
+                    <NavLink class="nav-link nav-subItem" href="test2">
+                        <span class="oi oi-list-rich" aria-hidden="true"></span> Report Cards
+                    </NavLink>
+                    <NavLink class="nav-link nav-subItem" href="test3">
+                        <span class="oi oi-list-rich" aria-hidden="true"></span> Administrator Types
+                    </NavLink>
+                </div>
+            }
+        </div>
+    </nav>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+    private bool expandedSubMenu3 = false;
+    private bool expandedSubMenu1 = false;
+    private bool expandedSubMenu2 = false;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+    private void ToggleSubMenu(int menu)
+    {
+        if (menu==1)
+        {
+            if (expandedSubMenu1)
+            {               
+                expandedSubMenu1 = false;
+
+            }
+            else
+            {
+                expandedSubMenu1 = true; ;
+                expandedSubMenu3 = false;               
+                expandedSubMenu2 = false;
+            }
+        }
+        if (menu == 2)
+        {
+            if (expandedSubMenu2)
+            {
+                expandedSubMenu2 = false;
+
+            }
+            else
+            {
+                expandedSubMenu2 = true; ;
+                expandedSubMenu3 = false;
+                expandedSubMenu1 = false;
+            }
+        }
+        if (menu == 3)
+        {
+            if (expandedSubMenu3)
+            {
+                expandedSubMenu3 = false;
+
+            }
+            else
+            {
+                expandedSubMenu3 = true; ;
+                expandedSubMenu2 = false;
+                expandedSubMenu1 = false;
+            }
+        }
+    }
+}

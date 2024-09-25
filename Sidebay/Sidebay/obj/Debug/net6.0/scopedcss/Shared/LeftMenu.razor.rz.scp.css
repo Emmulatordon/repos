@@ -1,0 +1,31 @@
+aside[b-t436f99cpk] {
+    background: white;
+    width: 250px;
+    height: 100vh;
+    box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.25);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: 0.3s;
+    position: fixed;
+}
+
+.nav[b-t436f99cpk] {
+    border-top: solid #F2F2F2;
+    margin-top: 15px;
+    padding-top: 10px;
+    flex: 1;
+}
+.menu[b-t436f99cpk] {
+    padding: 10px 15px;
+    border-radius: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.85);
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    transition: 0.3s;
+    justify-content: space-between;
+}

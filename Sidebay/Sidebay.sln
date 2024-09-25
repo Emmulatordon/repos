@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sidebay", "Sidebay\Sidebay.csproj", "{53D15072-1F4D-4EDF-8CC1-E73B6BDAF0B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53D15072-1F4D-4EDF-8CC1-E73B6BDAF0B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D15072-1F4D-4EDF-8CC1-E73B6BDAF0B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D15072-1F4D-4EDF-8CC1-E73B6BDAF0B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D15072-1F4D-4EDF-8CC1-E73B6BDAF0B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47AF28C7-8709-444A-B6D3-F8E503F648C5}
+	EndGlobalSection
+EndGlobal

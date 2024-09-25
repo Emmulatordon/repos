@@ -1,0 +1,11 @@
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.StaticUtility\bin\Debug\net6.0\ExpenseTracker.StaticUtility.deps.json
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.StaticUtility\bin\Debug\net6.0\ExpenseTracker.StaticUtility.dll
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.StaticUtility\bin\Debug\net6.0\ExpenseTracker.StaticUtility.pdb
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.StaticUtility\obj\Debug\net6.0\ExpenseTracker.StaticUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.StaticUtility\obj\Debug\net6.0\ExpenseTracker.StaticUtility.AssemblyInfoInputs.cache
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.StaticUtility\obj\Debug\net6.0\ExpenseTracker.StaticUtility.AssemblyInfo.cs
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.StaticUtility\obj\Debug\net6.0\ExpenseTracker.StaticUtility.csproj.CoreCompileInputs.cache
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.StaticUtility\obj\Debug\net6.0\ExpenseTracker.StaticUtility.dll
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.StaticUtility\obj\Debug\net6.0\refint\ExpenseTracker.StaticUtility.dll
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.StaticUtility\obj\Debug\net6.0\ExpenseTracker.StaticUtility.pdb
+C:\Users\viva\source\repos\MultiUser\ExpenseTracker.StaticUtility\obj\Debug\net6.0\ref\ExpenseTracker.StaticUtility.dll

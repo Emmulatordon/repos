@@ -1,0 +1,13 @@
+C:\Users\viva\source\repos\dsfdf\dsfdf\bin\Debug\dsfdf.exe.config
+C:\Users\viva\source\repos\dsfdf\dsfdf\bin\Debug\dsfdf.exe
+C:\Users\viva\source\repos\dsfdf\dsfdf\bin\Debug\dsfdf.pdb
+C:\Users\viva\source\repos\dsfdf\dsfdf\obj\Debug\dsfdf.csproj.AssemblyReference.cache
+C:\Users\viva\source\repos\dsfdf\dsfdf\obj\Debug\dsfdf.Form1.resources
+C:\Users\viva\source\repos\dsfdf\dsfdf\obj\Debug\dsfdf.Form2.resources
+C:\Users\viva\source\repos\dsfdf\dsfdf\obj\Debug\dsfdf.Form3.resources
+C:\Users\viva\source\repos\dsfdf\dsfdf\obj\Debug\dsfdf.Form4.resources
+C:\Users\viva\source\repos\dsfdf\dsfdf\obj\Debug\dsfdf.Properties.Resources.resources
+C:\Users\viva\source\repos\dsfdf\dsfdf\obj\Debug\dsfdf.csproj.GenerateResource.cache
+C:\Users\viva\source\repos\dsfdf\dsfdf\obj\Debug\dsfdf.csproj.CoreCompileInputs.cache
+C:\Users\viva\source\repos\dsfdf\dsfdf\obj\Debug\dsfdf.exe
+C:\Users\viva\source\repos\dsfdf\dsfdf\obj\Debug\dsfdf.pdb
